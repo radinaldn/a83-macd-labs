@@ -27,7 +27,7 @@
  </form>
  <?php
     $host = "tcp:dicodingradinal.database.windows.net";
-    $user = "radinaldn";
+    $user = "dicodingradinal";
     $pass = "Akungila123";
     $db = "dicodingradinal";
 
